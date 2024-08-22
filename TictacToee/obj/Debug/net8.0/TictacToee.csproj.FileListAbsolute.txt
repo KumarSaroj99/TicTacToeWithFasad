@@ -1,0 +1,14 @@
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\bin\Debug\net8.0\TictacToee.exe
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\bin\Debug\net8.0\TictacToee.deps.json
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\bin\Debug\net8.0\TictacToee.runtimeconfig.json
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\bin\Debug\net8.0\TictacToee.dll
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\bin\Debug\net8.0\TictacToee.pdb
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.AssemblyInfoInputs.cache
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.AssemblyInfo.cs
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.csproj.CoreCompileInputs.cache
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.dll
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\refint\TictacToee.dll
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.pdb
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.genruntimeconfig.cache
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\ref\TictacToee.dll
