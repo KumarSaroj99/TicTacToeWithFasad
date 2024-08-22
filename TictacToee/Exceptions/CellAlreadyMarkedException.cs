@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TictacToee.Exceptions
 {
-    internal class CellAlreadyMarkedException:Exception
+    internal class CellAlreadyMarkedException : Exception
     {
-        public CellAlreadyMarkedException(string message):base(message) { }
-        
+        public CellAlreadyMarkedException()
+            : base("Cell is already marked. Please choose an empty cell.") { }
     }
 }

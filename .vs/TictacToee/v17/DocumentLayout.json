@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\exceptions\\invelidmarktypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\exceptions\\invelidmarktypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\models\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\models\\resultype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\models\\resultype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|c:\\users\\sarojkumar.panda\\source\\repos\\tictactoee\\tictactoee\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7824CF1-9BE9-4B08-A3A3-439C6A010D56}|TictacToee\\TictacToee.csproj|solutionrelative:tictactoee\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "InvelidMarkTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Exceptions\\InvelidMarkTypeException.cs",
+              "RelativeDocumentMoniker": "TictacToee\\Exceptions\\InvelidMarkTypeException.cs",
+              "ToolTip": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Exceptions\\InvelidMarkTypeException.cs",
+              "RelativeToolTip": "TictacToee\\Exceptions\\InvelidMarkTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:57:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ResultAnalyzer.cs",
               "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Models\\ResultAnalyzer.cs",
               "RelativeDocumentMoniker": "TictacToee\\Models\\ResultAnalyzer.cs",
@@ -58,25 +75,24 @@
               "RelativeToolTip": "TictacToee\\Models\\ResultAnalyzer.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAcwBAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:24:48.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T06:24:48.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "CellAlreadyMarkedException.cs",
               "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Exceptions\\CellAlreadyMarkedException.cs",
               "RelativeDocumentMoniker": "TictacToee\\Exceptions\\CellAlreadyMarkedException.cs",
               "ToolTip": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Exceptions\\CellAlreadyMarkedException.cs",
               "RelativeToolTip": "TictacToee\\Exceptions\\CellAlreadyMarkedException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T05:57:10.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Models\\Board.cs",
               "RelativeDocumentMoniker": "TictacToee\\Models\\Board.cs",
@@ -84,25 +100,24 @@
               "RelativeToolTip": "TictacToee\\Models\\Board.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAAAFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:46:59.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:46:59.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Cell.cs",
               "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Models\\Cell.cs",
               "RelativeDocumentMoniker": "TictacToee\\Models\\Cell.cs",
               "ToolTip": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Models\\Cell.cs",
               "RelativeToolTip": "TictacToee\\Models\\Cell.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T05:23:25.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Resultype.cs",
               "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Models\\Resultype.cs",
               "RelativeDocumentMoniker": "TictacToee\\Models\\Resultype.cs",
@@ -110,12 +125,11 @@
               "RelativeToolTip": "TictacToee\\Models\\Resultype.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:12:58.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:12:58.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MarkType.cs",
               "DocumentMoniker": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Models\\MarkType.cs",
               "RelativeDocumentMoniker": "TictacToee\\Models\\MarkType.cs",
@@ -123,8 +137,7 @@
               "RelativeToolTip": "TictacToee\\Models\\MarkType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:12:29.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:12:29.848Z"
             },
             {
               "$type": "Document",
@@ -134,7 +147,7 @@
               "RelativeDocumentMoniker": "TictacToee\\Program.cs",
               "ToolTip": "C:\\Users\\sarojkumar.panda\\source\\repos\\TictacToee\\TictacToee\\Program.cs",
               "RelativeToolTip": "TictacToee\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T05:09:33.965Z",
               "EditorCaption": ""

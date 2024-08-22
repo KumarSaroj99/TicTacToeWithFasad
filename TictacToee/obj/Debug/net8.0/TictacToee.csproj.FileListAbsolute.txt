@@ -12,3 +12,4 @@ C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\re
 C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.pdb
 C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.genruntimeconfig.cache
 C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\ref\TictacToee.dll
+C:\Users\sarojkumar.panda\source\repos\TictacToee\TictacToee\obj\Debug\net8.0\TictacToee.sourcelink.json

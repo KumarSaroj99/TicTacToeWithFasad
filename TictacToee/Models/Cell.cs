@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TictacToee.Exceptions;
 
 namespace TictacToee.Models
 {
@@ -27,9 +28,13 @@ namespace TictacToee.Models
 
         public void SetMark(MarkType mark)
         {
+            if (mark != MarkType.X && mark != MarkType.O)
+            {
+                throw new InvalidMarkTypeException();
+            }
             if (!IsEmpty())
             {
-                throw new Exception("CellAlreadyMarkedException");
+                throw new CellAlreadyMarkedException();
             }
             this.mark = mark;
         }
@@ -39,5 +44,6 @@ namespace TictacToee.Models
             mark = MarkType.EMPTY;
         }
     }
+
 
 }
