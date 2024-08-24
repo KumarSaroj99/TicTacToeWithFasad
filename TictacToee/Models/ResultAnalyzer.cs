@@ -21,7 +21,7 @@ namespace TictacToee.Models
         {
             if (HorizontalWinCheck() || VerticalWinCheck() || DiagonalWinCheck())
             {
-                result = ResultType.WIN;
+                return result;
             }
             else if (board.IsBoardFull())
             {
@@ -43,6 +43,7 @@ namespace TictacToee.Models
                     board.GetCellMark(i + 1) == board.GetCellMark(i + 2) &&
                     board.GetCellMark(i) != MarkType.EMPTY)
                 {
+                    result = (board.GetCellMark(i) == MarkType.X) ? ResultType.WIN : ResultType.LOOSE;
                     return true;
                 }
             }
@@ -57,6 +58,7 @@ namespace TictacToee.Models
                     board.GetCellMark(i + 3) == board.GetCellMark(i + 6) &&
                     board.GetCellMark(i) != MarkType.EMPTY)
                 {
+                    result = (board.GetCellMark(i) == MarkType.X) ? ResultType.WIN : ResultType.LOOSE;
                     return true;
                 }
             }
@@ -69,6 +71,7 @@ namespace TictacToee.Models
                 board.GetCellMark(4) == board.GetCellMark(8) &&
                 board.GetCellMark(0) != MarkType.EMPTY)
             {
+                result = (board.GetCellMark(0) == MarkType.X) ? ResultType.WIN : ResultType.LOOSE;
                 return true;
             }
 
@@ -76,11 +79,13 @@ namespace TictacToee.Models
                 board.GetCellMark(4) == board.GetCellMark(6) &&
                 board.GetCellMark(2) != MarkType.EMPTY)
             {
+                result = (board.GetCellMark(2) == MarkType.X) ? ResultType.WIN : ResultType.LOOSE;
                 return true;
             }
 
             return false;
         }
     }
+
 
 }

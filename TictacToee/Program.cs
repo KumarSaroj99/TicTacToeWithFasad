@@ -14,17 +14,34 @@ namespace TictacToee
             {
                 // Hardcoded player moves
                 board.SetCellMark(0, MarkType.X); // Player X
-                
-                board.SetCellMark(1, MarkType.O); // Player O
-                
+
+                board.SetCellMark(1, MarkType.O); // Player 
+
                 board.SetCellMark(3, MarkType.X); // Player X
-                
-                board.SetCellMark(4, MarkType.O); // Player O
-                
+
+                board.SetCellMark(4, MarkType.O); // Player 
+
                 board.SetCellMark(6, MarkType.X); // Player X
+
                 
-                //mark a cell thats already marked 
-                //board.SetCellMark(0, MarkType.O); // This will throw CellAlreadyMarkedException
+
+                ResultType result = analyzer.AnalyzeResult();
+
+                switch (result)
+                {
+                    case ResultType.WIN:
+                        Console.WriteLine("Player X Wins!");
+                        break;
+                    case ResultType.LOOSE:
+                        Console.WriteLine("Player O Wins!");
+                        break;
+                    case ResultType.DRAW:
+                        Console.WriteLine("It's a Draw!");
+                        break;
+                    case ResultType.INPROGRESS:
+                        Console.WriteLine("Game is still in progress.");
+                        break;
+                }
             }
             catch (CellAlreadyMarkedException e)
             {
@@ -38,23 +55,7 @@ namespace TictacToee
             {
                 Console.WriteLine("An unexpected error occurred: " + e.Message);
             }
-
-            ResultType result = analyzer.AnalyzeResult();
-
-            switch (result)
-            {
-                case ResultType.WIN:
-                    Console.WriteLine("Player X Wins!");
-                    break;
-                case ResultType.DRAW:
-                    Console.WriteLine("It's a Draw!");
-                    break;
-                case ResultType.INPROGRESS:
-                    Console.WriteLine("Game is still in progress.");
-                    break;
-            }
         }
     }
-
 
 }
